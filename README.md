@@ -1,4 +1,3 @@
-## Hi there 👋
 ## ABOUT ME
 📄[자기소개서](https://www.notion.so/hyun-e9aa4dd9ddc04c889fd974b81b545dc1)
 <br>
