@@ -13,8 +13,8 @@
 
 
 ## 🌱 I’m currently learning ...
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=typescript&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=typescript&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 <img src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=Hibernate&logoColor=white"> 
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS)
