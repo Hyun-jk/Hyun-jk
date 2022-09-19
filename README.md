@@ -16,3 +16,4 @@
 <img src="https://img.shields.io/badge/-JPA-6DB33F?style=for-the-badge&logo=Hibernate&logoColor=white"> 
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyoen3@gmail.com&show_icons=true&theme=radical)
