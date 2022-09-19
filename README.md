@@ -1,4 +1,14 @@
 ## ABOUT ME
+Hi👋 Good to Meet you <br>
+
+I'm hyun who is trying to be a backend Developer <br>
+
+I haven't studied Computer before since last year
+
+So it is quite diffcult to study but I have done my best to do
+
+I hope to become a good developer soon
+
 ## How to reach me 📫<br>
 💬jaehyoen3@gmail.com
 <br>
