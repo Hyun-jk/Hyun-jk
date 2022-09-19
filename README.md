@@ -29,4 +29,4 @@ I hope to become a good developer soon
 <br>
 <br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jaehyoen3)](https://solved.ac/jaehyoen3)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jaehyoen3)](https://solved.ac/jaehyoen3) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun-jk&show_icons=true&theme=radical)
