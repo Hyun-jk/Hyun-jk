@@ -17,4 +17,4 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS)<br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun-jk&show_icons=true&theme=radical)
+
