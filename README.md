@@ -5,7 +5,7 @@ I'm hyun who is trying to be a backend Developer <br>
 
 I haven't studied Computer before since last year
 
-So it is quite diffcult to study but I have done my best to do
+So it is quite diffcult to study but I do my best to do
 
 I hope to become a good developer soon
 
