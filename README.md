@@ -1,13 +1,13 @@
 ## ABOUT ME
 Hi👋 Good to Meet you <br>
 
-I'm hyun who is trying to be a backend Developer <br>
+I'm hyun who is trying to be a good backend Developer <br>
 
-I haven't studied Computer before since last year
+I know how important teamwork is
 
-So it is quite diffcult to study but I do my best to do
+I hope I work with you someday
 
-I hope to become a good developer soon
+
 
 ## How to reach me 📫<br>
 💬jaehyoen3@gmail.com
