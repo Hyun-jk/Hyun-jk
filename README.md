@@ -26,7 +26,3 @@ I hope I work with you someday
 ## I'm currently studying ...🌱 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jaehyoen3)](https://solved.ac/jaehyoen3) 
