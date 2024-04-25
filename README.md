@@ -11,7 +11,6 @@ I hope I work with you someday
 
 ## How to reach me 📫
 💬 **Email:** [jaehyoen3@gmail.com](mailto:jaehyoen3@gmail.com)  
-🌐 **Blog:** [Velog](https://velog.io/@kim3008m/posts)
 <br>
 
 ## My tech stack 📚
